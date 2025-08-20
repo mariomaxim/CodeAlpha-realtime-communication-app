@@ -42,7 +42,7 @@ Before running this application, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/realtime-communication-app.git
+   git clone https://github.com/mariomaxim/realtime-communication-app.git
    cd realtime-communication-app
    ```
 
@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/yourusername/realtime-communication-app/issues) page
+1. Check the [Issues](https://github.com/mariomaxim/realtime-communication-app/issues) page
 2. Create a new issue if your problem isn't already reported
 3. Provide detailed information about your environment and the issue
 
